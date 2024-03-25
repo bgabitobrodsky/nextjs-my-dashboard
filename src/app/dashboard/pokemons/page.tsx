@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { PokemonGrid, PokemonsResponse, SimplePokemon } from "../../../pokemons";
 
 const getPokemons = async (
